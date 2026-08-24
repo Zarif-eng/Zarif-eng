@@ -13,8 +13,8 @@ embedded/software engineering. Ontario or GTA.
 
 | | | |
 |---|---|---|
-| **[Jarvis 1.0](https://github.com/Zarif-eng/jarvis-1.0)** | A voice assistant running entirely on hardware I own — no audio or personal data leaves my network. Local model inference on a desktop GPU, speech synthesis on a MacBook, a private mesh network tying them together. Response latency measured and cut **3.94s → 1.18s** by finding a queueing bug between a background task and the inference server. | `Python` `SQLite` `Swift` `Tailscale` |
-| **[Jarvis 2.0](https://github.com/Zarif-eng/jarvis-2.0)** | The redesign, built around a finding from living with v1: most commands don't need the model at all. A deterministic tier answers in under 700 ms without waking the GPU. Design frozen, build starting. | `design` |
+| **[Jarvis 1.0](https://github.com/Zarif-eng/Jarvis-1.0)** | A voice assistant running entirely on hardware I own — no audio or personal data leaves my network. Local model inference on a desktop GPU, speech synthesis on a MacBook, a private mesh network tying them together. Response latency measured and cut **3.94s → 1.18s** by finding a queueing bug between a background task and the inference server. | `Python` `SQLite` `Swift` `Tailscale` |
+| **[Jarvis 2.0](https://github.com/Zarif-eng/Jarvis-2.0)** | The redesign, built around a finding from living with v1: most commands don't need the model at all. A deterministic tier answers in under 700 ms without waking the GPU. Design frozen, build starting. | `design` |
 | **Audi L5 Inline-5** <sub>repo in preparation</sub> | High-fidelity DOHC inline-5 engine model to a 65 mm bore/stroke constraint. Kinematics simulation synchronising 20+ valves and 5 pistons from a single crankshaft input. 6-person team. | `CATIA V5` `DMU Kinematics` |
 | **B58 Engine** <sub>repo in preparation</sub> | Solo build of BMW's B58 inline-6. In progress. | `CATIA V5` |
 | **Oil Pump Jack** <sub>repo in preparation</sub> | Assembly and motion analysis of a walking-beam pump jack. Group project. | `SolidWorks` `Motion Analysis` |
