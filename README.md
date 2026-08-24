@@ -32,8 +32,11 @@ hosted API: deploying quantised models on consumer GPUs, private mesh networking
 machines, and measuring latency per stage until the numbers are real. C++ for
 console applications.
 
-**Testing & analysis** — materials lab work (hardness, tensile, toughness; annealing,
-quenching, cold working and tempering, with microstructure analysis), MiniTab.
+**Materials testing** — lab work in hardness, tensile strength and toughness across
+1048 steel, brass and aluminum; annealing, quenching, cold working and tempering, with
+microstructure analysis and written reports.
+
+**Statistics** — Minitab.
 
 ---
 
