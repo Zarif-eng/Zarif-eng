@@ -19,7 +19,7 @@ embedded/software engineering. Ontario or GTA.
 | **[Car Rental System](https://github.com/Zarif-eng/car-rental-system)** | Console car-rental application in C++ — inheritance, polymorphism and file persistence across 8 classes. Wrote the `Truck` and `Payment` classes and the payment handling. Four-person team. | `C++` `OOP` |
 | **B58 Engine** <sub>repo in preparation</sub> | Solo build of BMW's B58 inline-6. In progress. | `CATIA V5` |
 | **[Oil Pump Jack](https://github.com/Zarif-eng/oil-pump-jack)** | Walking-beam pump jack: full SolidWorks assembly and motion study. Built the assembly and every motion study, and sized the two-stage gearbox by brute-forcing all 923,521 tooth-count combinations for an exact **5.9511** reduction rather than rounding a hand calculation. Group project. | `SolidWorks` `Motion Study` `C++` |
-| **FPV Drone** <sub>repo in preparation</sub> | Built and tuned a first-person-view quadcopter — flight controller configuration, PID tuning, and the build documentation. | `Betaflight` |
+| **[FPV Drone](https://github.com/Zarif-eng/fpv-drone-build)** | 4" freestyle quadcopter built from components and configured in Betaflight — rates and PID tuning, DJI O4 digital video. Includes the fault that grounded it after assembly and how it was cleared. | `Betaflight` `DJI O4` |
 
 ---
 
